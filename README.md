@@ -5,7 +5,7 @@ Each file within this repo contains the project code I've developed, with a note
 the aim, purpose and methodology of the listed implementation, along with a list of the libraries used.📋
 
 These projects primarily span the following areas: web app development, data analysis/data science and
-machine learning.‼
+machine learning.⚠️
 
 Some of these projects are simply re-implementations or "cloning" of existing ideas or concepts, while others
 are prototypes or fully functioning versions of novel ideas. The status of the project, along with its origin
